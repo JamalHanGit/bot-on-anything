@@ -11,9 +11,9 @@
 
   "channel": {
     "type": "wechat_mp",
-
+    
     "wechat_mp": {
-      "token": "abcdefghijklmnopqrstuvwxyz",
+      "token": "xianyudingyue",
       "port": "80"
     }
 
